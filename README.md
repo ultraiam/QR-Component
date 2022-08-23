@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution/Live Site URL: [Add solution URL here](https://your-solution-url.com)
+- Solution/Live Site URL: [https://ultraiam.github.io/QR-Component/]
 
 ## My process
 
